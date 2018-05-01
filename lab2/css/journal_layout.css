@@ -1,0 +1,40 @@
+body{
+	color:blue;
+	background-repeat: repeat;
+	background-image: url(https://media.gettyimages.com/photos/abstract-gradient-background-with-blue-and-green-colors-picture-id498785161?b=1&k=6&m=498785161&s=612x612&w=0&h=cAzm_94wm0rdcROuJLx-sXu3tysiI5Hwdl21_73IBt8=);
+}
+.overall{
+	border-width: 5px;
+	border-color: green;
+	border-style: solid;
+	background-color: white;
+	margin-top: 10px;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+.heading{
+	border-width: 5px;
+	border-color: red;
+	border-style: solid;
+	margin-top: 10px;
+	background-color: #92a8d1;
+	float: right;
+	clear: both;
+}
+.naming{
+	border-width: 5px;
+	border-color: yellow;
+	border-style: solid;
+	margin-top: 10px;
+}
+.day{
+	border-width: 5px;
+	border-color: blue;
+	border-style: solid;
+}
+.date{
+	border-width: 5px;
+	border-color: violet;
+	border-style: solid;
+	margin-top: 15px;
+}
